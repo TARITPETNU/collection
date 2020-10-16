@@ -1,0 +1,15 @@
+C:\Users\acer\Documents\GitHub\collection\collection\collection\bin\Debug\collection.exe.config
+C:\Users\acer\Documents\GitHub\collection\collection\collection\bin\Debug\collection.exe
+C:\Users\acer\Documents\GitHub\collection\collection\collection\bin\Debug\collection.pdb
+C:\Users\acer\Documents\GitHub\collection\collection\collection\obj\Debug\collection.csprojAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\collection\collection\collection\obj\Debug\MainWindow.g.cs
+C:\Users\acer\Documents\GitHub\collection\collection\collection\obj\Debug\App.g.cs
+C:\Users\acer\Documents\GitHub\collection\collection\collection\obj\Debug\collection_MarkupCompile.cache
+C:\Users\acer\Documents\GitHub\collection\collection\collection\obj\Debug\collection_MarkupCompile.lref
+C:\Users\acer\Documents\GitHub\collection\collection\collection\obj\Debug\MainWindow.baml
+C:\Users\acer\Documents\GitHub\collection\collection\collection\obj\Debug\collection.g.resources
+C:\Users\acer\Documents\GitHub\collection\collection\collection\obj\Debug\collection.Properties.Resources.resources
+C:\Users\acer\Documents\GitHub\collection\collection\collection\obj\Debug\collection.csproj.GenerateResource.cache
+C:\Users\acer\Documents\GitHub\collection\collection\collection\obj\Debug\collection.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\collection\collection\collection\obj\Debug\collection.exe
+C:\Users\acer\Documents\GitHub\collection\collection\collection\obj\Debug\collection.pdb
